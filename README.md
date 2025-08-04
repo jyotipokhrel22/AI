@@ -1,2 +1,2 @@
 # AI
-AI tutorials and exercises
+AI, NLP, CV, GenAI, etc tutorials.
